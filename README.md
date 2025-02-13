@@ -91,7 +91,7 @@ The script will test:
 
 ## Code Structure
 ```bash
-secure-s3-bucket/
+terraform-secure-sensitive-data-s3/
 ├── terraform/                  # Terraform configuration files
 │   ├── main.tf                 # Main Terraform configuration
 │   ├── terraform.tfvars        # Terraform variables
